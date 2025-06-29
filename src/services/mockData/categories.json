@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "name": "Work",
+    "color": "blue",
+    "icon": "Briefcase"
+  },
+  {
+    "Id": 2,
+    "name": "Personal",
+    "color": "green",
+    "icon": "Home"
+  },
+  {
+    "Id": 3,
+    "name": "Shopping",
+    "color": "purple",
+    "icon": "ShoppingCart"
+  },
+  {
+    "Id": 4,
+    "name": "Health",
+    "color": "pink",
+    "icon": "Heart"
+  },
+  {
+    "Id": 5,
+    "name": "General",
+    "color": "gray",
+    "icon": "Tag"
+  }
+]
